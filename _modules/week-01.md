@@ -1,23 +1,21 @@
 ---
-title: Introduction to Java
+title: Morehouse School of Medicine
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Sept 21
+: **LEC 1**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Sept 22
+: **LEC 2**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Sept 23
+: **LEC 3**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
