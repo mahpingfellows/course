@@ -19,8 +19,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FBTB
-tagline: From Bench to Bedside Entraining Policy to Science
+title: 🧑‍🔬📊🧪
+tagline: From Bench to Bedside: Entraining Policy to Science
 description: How do our everyday activities impact circadian rhythms? How we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life?
 author: MAHPING Pedagogy Fellows
 baseurl: '/course' # the subpath of your site, e.g. /blog
