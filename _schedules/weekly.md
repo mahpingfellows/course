@@ -21,18 +21,20 @@ schedule:
     events:
       - name: Lecture
         start: 10:00 AM
-        end: 12:00PM
+        end: 12:00 PM
         location: XXX
+        
   - name: Thursday, Sept 22
     events:
       - name: Lecture
-        start: 2:00 PM
-        end: 4:00PM
+        start: 02:00 PM
+        end: 04:00 PM
         location: XXX
+        
   - name: Friday, Sept 23
     events:
       - name: Lecture
-        start: 1:00 PM
-        end: 3:00PM
+        start: 01:00 PM
+        end: 03:00 PM
         location: XXX
 ---
