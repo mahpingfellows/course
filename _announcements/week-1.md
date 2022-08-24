@@ -1,10 +1,21 @@
 ---
-title: Week 1 Announcement
-week: 1
-date: 2019-04-08
+title: Morehouse School of Medicine
 ---
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+Sept 21
+: **LEC 1**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
+
+Sept 22
+: **LEC 2**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
+
+Sept 23
+: **LEC 3**{: .label .label-grey} **[XXX]** 
+    : [Slides](https://canvas.harvard.edu/files/14215632/download?download_frd=1) 
+: Links 🔗
+: * [XX](https://google.com)
