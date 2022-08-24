@@ -26,13 +26,13 @@ schedule:
   - name: Thursday, Sept 22
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 12:00PM
+        start: 2:00 PM
+        end: 4:00PM
         location: XXX
   - name: Friday, Sept 23
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 12:00PM
+        start: 1:00 PM
+        end: 3:00PM
         location: XXX
 ---
