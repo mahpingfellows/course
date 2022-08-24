@@ -13,25 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/course' # the subpath of your site, e.g. /blog
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: FBTB
+tagline: From Bench to Bedside: Entraining Policy to Science 🧑‍🔬📊🧪
+description: How do our everyday activities impact circadian rhythms? How we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life?
+author: MAHPING Pedagogy Fellows
+baseurl: '/fbtbcourse' # the subpath of your site, e.g. /blog
 url: 'https://mahpingfellows.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
-color_scheme: light
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+color_scheme: red
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Course Feedback:
+    - 'https://google.com'
 footer_content:
 
 # Collections for website data
