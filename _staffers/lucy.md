@@ -2,7 +2,6 @@
 name: Lucy Lai
 role: Instructor
 email: lucylai@g.harvard.edu
-website: https://lucy-lai.com
 photo: lucy.jpg
 ---
 
