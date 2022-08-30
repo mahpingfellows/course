@@ -6,4 +6,4 @@ website:
 photo: rachel.jpg
 ---
 
-Hi!
+I'm a 2nd year Ph.D. student in the Biological and Biomedical Sciences program at Harvard Medical School. I study how cells in the C. elegans nervous system get and maintain their shape.
