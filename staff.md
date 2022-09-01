@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Meet your instructors!
+Meet your instructors and faculty sponsors!
 
 ## Instructors
 
@@ -15,13 +15,9 @@ Meet your instructors!
 {{ staffer }}
 {% endfor %}
 
-{% assign faculty_sponsors = site.staffers | where: 'role', 'Faculty Sponsors' %}
-{% assign num_faculty_sponsors= faculty_sponsors | size %}
-{% if num_faculty_sponsors != 0 %}
-
 ## Faculty Sponsors
 
-{% for staffer in faculty_sponsors %}
+{% assign faculty_sponsors = site.staffers | where: 'role', 'Faculty Sponsors' %}
+{% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
