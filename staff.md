@@ -17,7 +17,7 @@ Meet your instructors and faculty sponsors!
 
 ## Faculty Sponsors
 
-{% assign faculty_sponsors = site.staffers | where: 'role', 'Faculty Sponsors' %}
+{% assign faculty_sponsor = site.staffers | where: 'role', 'Faculty Sponsor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
