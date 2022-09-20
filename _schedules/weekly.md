@@ -1,40 +1,34 @@
 ---
 timeline:
+  - '09:00 AM'
   - '10:00 AM'
-  - '10:30 AM'
   - '11:00 AM'
-  - '11:30 AM'
   - '12:00 PM'
-  - '12:30 PM'
   - '1:00 PM'
-  - '1:30 PM'
   - '2:00 PM'
-  - '2:30 PM'
   - '3:00 PM'
-  - '3:30 PM'
   - '4:00 PM'
-  - '4:30 PM'
   - '5:00 PM'
-  - '5:30 PM'
+  - '6:00 PM'
 schedule:
   - name: Wednesday, Sept 21
     events:
-      - name: Lecture
-        start: 10:00 AM
-        end: 12:00 PM
-        location: XXX
+      - name: Session 1
+        start: 04:00 PM
+        end: 06:00 PM
+        location: HG-B215
         
   - name: Thursday, Sept 22
     events:
-      - name: Lecture
-        start: 02:00 PM
-        end: 04:00 PM
-        location: XXX
+      - name: Session 2
+        start: 04:00 PM
+        end: 06:00 PM
+        location: HG-B215
         
   - name: Friday, Sept 23
     events:
-      - name: Lecture
-        start: 01:00 PM
-        end: 03:00 PM
-        location: XXX
+      - name: Session 3
+        start: 09:00 AM
+        end: 11:00 AM
+        location: HG-B215
 ---
