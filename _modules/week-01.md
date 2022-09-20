@@ -55,7 +55,9 @@ Sept 23 (9-11am)
 : * The structure of schooling given their understanding of chronobiology
 
 : **Links**{: .label .label-blue}  🔗
-: * [XX](https://google.com)
+: * [DST interactive map](http://andywoodruff.com/blog/where-to-hate-daylight-saving-time-and-where-to-love-it/)
+: * [Chronotype quiz](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)
+: * [Should school start times change?]( https://www.wtxl.com/news/local-news/lcs-survey-should-school-start-times-change)
 
 Post-Class
 : Complete Post-Test Survey! (link to come)
