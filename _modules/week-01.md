@@ -5,7 +5,7 @@ title: Morehouse School of Medicine
 Pre-Class
 : Complete [Pre-Test Survey!](https://forms.gle/nioaHasChnYQjqxi7)
 
-Sept 21
+Sept 21 (4-6pm)
 : **DAY 1**{: .label .label-green} **Why do circadian rhythms matter?** 
 : Slides will be posted after class every day.
     : [Slides]()
@@ -21,7 +21,7 @@ Sept 21
 : **Links**{: .label .label-blue} 🔗
 : * [Poll Everywhere](https://google.com)
 
-Sept 22
+Sept 22 (4-6pm)
 : **DAY 2**{: .label .label-green} **How can we apply circadian biology to inform decisions related to shift work?** 
     : [Slides]( ) 
 : **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
@@ -36,7 +36,7 @@ Sept 22
 : **Links**{: .label .label-blue} 🔗
 : * [XX](https://google.com)
 
-Sept 23
+Sept 23 (9-11am)
 : **DAY 3**{: .label .label-green} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
     : [Slides]( ) 
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
