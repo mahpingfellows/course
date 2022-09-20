@@ -1,9 +1,9 @@
 ---
 name: Mark Lee
 role: Faculty Sponsor
-email: 
-website: 
-photo: 
+email: marklee@spelman.edu
+website: https://twitter.com/drlee1881
+photo: mark.jpg
 ---
 
-Hi!
+I'm an Associate Professor of Biology at [Spelman College](https://www.spelman.edu/).
