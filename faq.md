@@ -29,3 +29,7 @@ If you are a student at **Harvard Medical School**: Harvard graduate students ar
 We welcome anyone who is interested in circadian rhythms, sleep, or the intersection between science and policy to take this class, regardless of your career stage! 
 
 
+### Will there be homework?
+
+There will be no out-of-class work. However, we invite you to fully participate and interact with your classmates during our 3 in-class sessions! 
+
