@@ -6,7 +6,7 @@ Pre-Class
 : Complete [Pre-Test Survey!](https://forms.gle/nioaHasChnYQjqxi7)
 
 Sept 21 (4-6pm)
-: **DAY 1**{: .label .label-green} **Why do circadian rhythms matter?** 
+: **DAY 1**{: .label .label-red} **Why do circadian rhythms matter?** 
 : Slides will be posted after class every day.
     : [Slides]()
 : **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, and Rachel Swope
@@ -19,10 +19,10 @@ Sept 21 (4-6pm)
 : * That almost ALL tissues in the body (a) have circadian rhythms, and (b) rely on these rhythms to function
 
 : **Links**{: .label .label-blue} 🔗
-: * [Poll Everywhere](https://google.com)
+: * [Poll Everywhere](https://pollev.com/laurenminer448) 
 
 Sept 22 (4-6pm)
-: **DAY 2**{: .label .label-green} **How can we apply circadian biology to inform decisions related to shift work?** 
+: **DAY 2**{: .label .label-red} **How can we apply circadian biology to inform decisions related to shift work?** 
     : [Slides]( ) 
 : **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
 : In our second session, we will apply our knowledge of circadian biology to the health risk posed by shift work. Operating outside of a natural circadian rhythm is inherently unhealthy, but we can leverage what we know about circadian biology to protect both long-term health outcomes and performance of shift workers.
@@ -34,10 +34,10 @@ Sept 22 (4-6pm)
 : * How circadian phases can be shifted by drugs (melatonin) or behavior (exercise)
 
 : **Links**{: .label .label-blue} 🔗
-: * [XX](https://google.com)
+: * [Poll Everywhere](https://pollev.com/laurenminer448) 
 
 Sept 23 (9-11am)
-: **DAY 3**{: .label .label-green} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
+: **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
     : [Slides]( ) 
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
 
@@ -55,6 +55,7 @@ Sept 23 (9-11am)
 : * The structure of schooling given their understanding of chronobiology
 
 : **Links**{: .label .label-blue}  🔗
+: * [Poll Everywhere](https://pollev.com/laurenminer448) 
 : * [DST interactive map](http://andywoodruff.com/blog/where-to-hate-daylight-saving-time-and-where-to-love-it/)
 : * [Chronotype quiz](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)
 : * [Should school start times change?]( https://www.wtxl.com/news/local-news/lcs-survey-should-school-start-times-change)
