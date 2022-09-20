@@ -1,8 +1,8 @@
 ---
 name: Morris Beneviste
 role: Faculty Sponsor
-email: https://www.msm.edu/about_us/FacultyDirectory/Neurobiology/MorrisBenveniste/index.php
-website: mbenveniste@msm.edu
+website: https://www.msm.edu/about_us/FacultyDirectory/Neurobiology/MorrisBenveniste/index.php
+email: mbenveniste@msm.edu
 photo: morris.jpg
 ---
 
