@@ -7,10 +7,9 @@ Pre-Class
 
 Sept 21 (4-6pm)
 : **DAY 1**{: .label .label-red} **Why do circadian rhythms matter?** 
-: Slides will be posted after class every day.
-    : [Slides]()
+    : [Slides]() (posted after class)
 : **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, and Rachel Swope
-: In our first session, we will establish a foundational knowledge, describing the biological mechanisms by which circadian rhythms are entrained by environmental cues and synchronized throughout the body. 
+: In our first session, we will establish foundational knowledge, describing the biological mechanisms by which circadian rhythms are entrained by environmental cues and synchronized throughout the body. 
 : After Day 1, students will understand:
 : * The autoinhibitory transcriptional network that creates circadian rhythms
 : * The concept of entrainment, i.e. that external cues can be used to adjust intrinsically generated rhythms
@@ -23,7 +22,7 @@ Sept 21 (4-6pm)
 
 Sept 22 (4-6pm)
 : **DAY 2**{: .label .label-red} **How can we apply circadian biology to inform decisions related to shift work?** 
-    : [Slides]( ) 
+    : [Slides]() (posted after class)
 : **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
 : In our second session, we will apply our knowledge of circadian biology to the health risk posed by shift work. Operating outside of a natural circadian rhythm is inherently unhealthy, but we can leverage what we know about circadian biology to protect both long-term health outcomes and performance of shift workers.
 : After Day 2, students will understand:
@@ -38,7 +37,7 @@ Sept 22 (4-6pm)
 
 Sept 23 (9-11am)
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
-    : [Slides]( ) 
+    : [Slides]() (posted after class) 
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
 
 : In our third session, we will discuss how circadian biology informs general policy decisions using the examples of Daylight Savings Time and school start times. We will focus on health outcomes resulting from policy decisions.
