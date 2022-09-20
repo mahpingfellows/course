@@ -2,7 +2,7 @@
 name: Lauren Miner
 role: Instructor
 email: laurenminer@g.harvard.edu
-website: 
+website: https://scholar.google.com/citations?user=JKs-UuAAAAAJ&hl=en
 photo: lauren.jpg
 ---
 
