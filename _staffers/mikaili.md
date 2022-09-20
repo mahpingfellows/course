@@ -2,7 +2,7 @@
 name: Mikaili Abdullah
 role: Instructor
 email: mabdullah@msm.edu
-website: 
+website: https://www.linkedin.com/in/mikaili-abdullah-565005134
 photo: mikaili.jpg
 ---
 
