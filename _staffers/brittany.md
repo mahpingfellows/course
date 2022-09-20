@@ -2,7 +2,7 @@
 name: Brittany Bush
 role: Instructor
 email: bbush@msm.edu
-website: 
+website: https://www.linkedin.com/in/brittany-bush-msbr-a11a26126/
 photo: brittany.jpg
 ---
 
