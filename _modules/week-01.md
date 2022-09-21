@@ -34,9 +34,9 @@ Sept 22 (4-6pm)
 
 : **Links**{: .label .label-blue} 🔗
 : * [Poll Everywhere](https://pollev.com/laurenminer448) 
-: * [Activity - Cognitive Awareness](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityCognitiveAwareness.pdf)
-: * [Activity - Critical Thinking](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityCriticalThinking.pdf)
-: * [Activity - Muscular Endurance](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityMuscularEndurance.pdf)
+: * [Activity - Cognitive Awareness](https://mahpingfellows.github.io/course/files/ZTActivityCognitiveAwareness.pdf)
+: * [Activity - Critical Thinking](https://mahpingfellows.github.io/course/files/ZTActivityCriticalThinking.pdf)
+: * [Activity - Muscular Endurance](https://mahpingfellows.github.io/course/files/ZTActivityMuscularEndurance.pdf)
 
 Sept 23 (9-11am)
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
