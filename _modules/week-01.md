@@ -34,6 +34,9 @@ Sept 22 (4-6pm)
 
 : **Links**{: .label .label-blue} 🔗
 : * [Poll Everywhere](https://pollev.com/laurenminer448) 
+: * [Activity - Cognitive Awareness](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityCognitiveAwareness.pdf)
+: * [Activity - Critical Thinking](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityCriticalThinking.pdf)
+: * [Activity - Muscular Endurance](https://github.com/mahpingfellows/course/blob/main/files/ZTActivityMuscularEndurance.pdf)
 
 Sept 23 (9-11am)
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
@@ -58,6 +61,7 @@ Sept 23 (9-11am)
 : * [DST interactive map](http://andywoodruff.com/blog/where-to-hate-daylight-saving-time-and-where-to-love-it/)
 : * [Chronotype quiz](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)
 : * [Should school start times change?]( https://www.wtxl.com/news/local-news/lcs-survey-should-school-start-times-change)
+: * [Sleep and school start times podcast episode](https://open.spotify.com/episode/0BNTZBg1x51Kf9dTUlZtIu?si=7VFG5GV7QY6Or022aTqUwQ&context=spotify%3Ashow%3A4StXNesuuuxFAKKO5D7WqP)
 
 Post-Class
 : Complete Post-Test Survey! (link to come)
