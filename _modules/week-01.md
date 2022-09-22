@@ -7,7 +7,7 @@ Pre-Class
 
 Sept 21 (4-6pm)
 : **DAY 1**{: .label .label-red} **Why do circadian rhythms matter?** 
-    : [Slides]() (posted after class)
+    : [Slides](https://mahpingfellows.github.io/course/files/day1.pdf)
 : **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, and Rachel Swope
 : In our first session, we will establish foundational knowledge, describing the biological mechanisms by which circadian rhythms are entrained by environmental cues and synchronized throughout the body. 
 : After Day 1, students will understand:
