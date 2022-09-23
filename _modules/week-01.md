@@ -40,7 +40,7 @@ Sept 22 (4-6pm)
 
 Sept 23 (9-11am)
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
-    : [Slides]() (posted after class) 
+    : [Slides](https://mahpingfellows.github.io/course/files/day2.pdf)
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
 
 : In our third session, we will discuss how circadian biology informs general policy decisions using the examples of Daylight Savings Time and school start times. We will focus on health outcomes resulting from policy decisions.
