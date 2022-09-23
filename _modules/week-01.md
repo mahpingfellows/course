@@ -65,4 +65,4 @@ Sept 23 (9-11am)
 : * [Sleep and school start times podcast episode](https://open.spotify.com/episode/0BNTZBg1x51Kf9dTUlZtIu?si=7VFG5GV7QY6Or022aTqUwQ&context=spotify%3Ashow%3A4StXNesuuuxFAKKO5D7WqP)
 
 Post-Class
-: Complete Post-Test Survey! (link to come)
+: Complete [Post-Test Survey](https://forms.gle/G86BaTD1oSpuy9rr6)!
