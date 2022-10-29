@@ -1,7 +1,5 @@
 ---
 timeline:
-  - '09:00 AM'
-  - '09:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -17,28 +15,26 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
-  - '5:30 PM'
-  - '6:00 PM'
 
 schedule:
-  - name: Wednesday, Sept 21
+  - name: Wednesday, Nov 2
     events:
       - name: Session 1
-        start: 04:00 PM
-        end: 06:00 PM
-        location: HG-B215
+        start: 02:00 PM
+        end: 04:00 PM
+        location: TMEC L-007
         
-  - name: Thursday, Sept 22
+  - name: Thursday, Nov 3
     events:
       - name: Session 2
-        start: 04:00 PM
-        end: 06:00 PM
-        location: HG-B215
+        start: 02:00 PM
+        end: 04:00 PM
+        location: TMEC L-007
         
-  - name: Friday, Sept 23
+  - name: Friday, Nov 4
     events:
       - name: Session 3
-        start: 09:00 AM
-        end: 11:00 AM
-        location: HG-B215
+        start: 02:00 PM
+        end: 04:00 PM
+        location: TMEC L-007
 ---
