@@ -32,9 +32,6 @@ Nov 3
 
 : **Links**{: .label .label-blue} 🔗
 : * [Poll Everywhere](https://pollev.com/laurenminer448) 
-: * [Activity - Cognitive Awareness](https://mahpingfellows.github.io/course/files/ZTActivityCognitiveAwareness.pdf)
-: * [Activity - Critical Thinking](https://mahpingfellows.github.io/course/files/ZTActivityCriticalThinking.pdf)
-: * [Activity - Muscular Endurance](https://mahpingfellows.github.io/course/files/ZTActivityMuscularEndurance.pdf)
 
 Nov 4 
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time?** 
