@@ -1,13 +1,13 @@
 ---
-title: Morehouse School of Medicine
+title: Harvard Medical School
 ---
 
 Pre-Class
-: Complete [Pre-Test Survey!](https://forms.gle/nioaHasChnYQjqxi7)
+: Complete our [Pre-Test Survey!](https://forms.gle/nioaHasChnYQjqxi7)
 
-Sept 21 (4-6pm)
+Nov 2 (2-4pm)
 : **DAY 1**{: .label .label-red} **Why do circadian rhythms matter?** 
-    : [Slides](https://mahpingfellows.github.io/course/files/day1.pdf)
+    : [Slides]()
 : **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, and Rachel Swope
 : In our first session, we will establish foundational knowledge, describing the biological mechanisms by which circadian rhythms are entrained by environmental cues and synchronized throughout the body. 
 : After Day 1, students will understand:
@@ -20,9 +20,9 @@ Sept 21 (4-6pm)
 : **Links**{: .label .label-blue} 🔗
 : * [Poll Everywhere](https://pollev.com/laurenminer448) 
 
-Sept 22 (4-6pm)
+Nov 3 (2-4pm)
 : **DAY 2**{: .label .label-red} **How can we apply circadian biology to inform decisions related to shift work?** 
-    : [Slides](https://mahpingfellows.github.io/course/files/day2.pdf)
+    : [Slides]()
 : **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
 : In our second session, we will apply our knowledge of circadian biology to the health risk posed by shift work. Operating outside of a natural circadian rhythm is inherently unhealthy, but we can leverage what we know about circadian biology to protect both long-term health outcomes and performance of shift workers.
 : After Day 2, students will understand:
@@ -38,9 +38,9 @@ Sept 22 (4-6pm)
 : * [Activity - Critical Thinking](https://mahpingfellows.github.io/course/files/ZTActivityCriticalThinking.pdf)
 : * [Activity - Muscular Endurance](https://mahpingfellows.github.io/course/files/ZTActivityMuscularEndurance.pdf)
 
-Sept 23 (9-11am)
-: **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time and school start times?** 
-    : [Slides](https://mahpingfellows.github.io/course/files/day3.pdf)
+Nov 4 (2-4pm)
+: **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time?** 
+    : [Slides]()
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
 
 : In our third session, we will discuss how circadian biology informs general policy decisions using the examples of Daylight Savings Time and school start times. We will focus on health outcomes resulting from policy decisions.
@@ -65,4 +65,4 @@ Sept 23 (9-11am)
 : * [Sleep and school start times podcast episode](https://open.spotify.com/episode/0BNTZBg1x51Kf9dTUlZtIu?si=7VFG5GV7QY6Or022aTqUwQ&context=spotify%3Ashow%3A4StXNesuuuxFAKKO5D7WqP)
 
 Post-Class
-: Complete [Post-Test Survey](https://forms.gle/G86BaTD1oSpuy9rr6)!
+: Complete our [Post-Test Survey](https://forms.gle/G86BaTD1oSpuy9rr6)!
