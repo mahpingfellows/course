@@ -19,7 +19,7 @@ Circadian rhythms have a profound impact on our health and well being. Beyond re
 
 **Dates:** 
 * September 21-23 @ [Morehouse School of Medicine](https://msm.edu/)
-* November 2-4 @ [Harvard Medical School](https://hms.harvard.edu/) *FOR HARVARD ONLY*: Please register for the course **[here](https://hms.az1.qualtrics.com/jfe/form/SV_0e59RQsumFHCXL8)**!
+* November 2-4 @ [Harvard Medical School](https://hms.harvard.edu/) || *FOR HARVARD ONLY*: Please register for the course **[here](https://hms.az1.qualtrics.com/jfe/form/SV_0e59RQsumFHCXL8)**!
 
 
 {% for module in site.modules %}
