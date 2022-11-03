@@ -8,7 +8,7 @@ Pre-Class
 Nov 2 
 : **DAY 1**{: .label .label-red} **Why do circadian rhythms matter?** 
     : [Slides](https://mahpingfellows.github.io/course/files/day1.pdf)
-: **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, and Rachel Swope
+: **Instructors**{: .label .label-grey} Ben Finander, Lauren Miner, Jackie Lin, Rachel Swope
 : In our first session, we will establish foundational knowledge, describing the biological mechanisms by which circadian rhythms are entrained by environmental cues and synchronized throughout the body. 
 : After Day 1, students will understand:
 : * The autoinhibitory transcriptional network that creates circadian rhythms
@@ -23,7 +23,7 @@ Nov 2
 Nov 3
 : **DAY 2**{: .label .label-red} **How can we apply circadian biology to inform decisions related to shift work?** 
     : [Slides](https://mahpingfellows.github.io/course/files/day2.pdf)
-: **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
+: **Instructors**{: .label .label-grey} Lucy Lai, Ben Finander, Mikaili Abdullah
 : In our second session, we will apply our knowledge of circadian biology to the health risk posed by shift work. Operating outside of a natural circadian rhythm is inherently unhealthy, but we can leverage what we know about circadian biology to protect both long-term health outcomes and performance of shift workers.
 : After Day 2, students will understand:
 : * The history and current state of shift work in the US
@@ -36,7 +36,7 @@ Nov 3
 Nov 4 
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time?** 
     : [Slides]
-: **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
+: **Instructors**{: .label .label-grey} Lucy Lai, Brittany Bush, Mikaili Abdullah
 
 : In our third session, we will discuss how circadian biology informs general policy decisions using the examples of Daylight Savings Time and school start times. We will focus on health outcomes resulting from policy decisions.
 
@@ -51,8 +51,6 @@ Nov 4
 : * [DST interactive map](http://andywoodruff.com/blog/where-to-hate-daylight-saving-time-and-where-to-love-it/)
 : * [Save Standard Time](https://savestandardtime.com/chart/?city=4180439&wake=7&work=9&clock=biannual)
 : * [Chronotype quiz](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)
-: * [Should school start times change?]( https://www.wtxl.com/news/local-news/lcs-survey-should-school-start-times-change)
-: * [Sleep and school start times podcast episode](https://open.spotify.com/episode/0BNTZBg1x51Kf9dTUlZtIu?si=7VFG5GV7QY6Or022aTqUwQ&context=spotify%3Ashow%3A4StXNesuuuxFAKKO5D7WqP)
 
 Post-Class
 : Complete our [Post-Test Survey](https://forms.gle/G86BaTD1oSpuy9rr6)!
