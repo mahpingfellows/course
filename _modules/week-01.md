@@ -22,7 +22,7 @@ Nov 2
 
 Nov 3
 : **DAY 2**{: .label .label-red} **How can we apply circadian biology to inform decisions related to shift work?** 
-    : [Slides]()
+    : [Slides](https://mahpingfellows.github.io/course/files/day2.pdf)
 : **Instructors**{: .label .label-grey} Lucy Lai, Rachel Swope, Ben Finander, and Mikaili Abdullah
 : In our second session, we will apply our knowledge of circadian biology to the health risk posed by shift work. Operating outside of a natural circadian rhythm is inherently unhealthy, but we can leverage what we know about circadian biology to protect both long-term health outcomes and performance of shift workers.
 : After Day 2, students will understand:
@@ -35,7 +35,7 @@ Nov 3
 
 Nov 4 
 : **DAY 3**{: .label .label-red} **How can we apply circadian biology to broader policy decisions like Daylight Savings Time?** 
-    : [Slides]()
+    : [Slides]
 : **Instructors**{: .label .label-grey} Brittany Bush, Mikaili Abdullah, and Lucy Lai
 
 : In our third session, we will discuss how circadian biology informs general policy decisions using the examples of Daylight Savings Time and school start times. We will focus on health outcomes resulting from policy decisions.
